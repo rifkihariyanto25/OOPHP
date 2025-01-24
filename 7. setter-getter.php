@@ -141,5 +141,5 @@ $produk2->setDiskon(50);
 echo $produk2->getHarga();
 echo "<hr>";
 
-$produk1->setPenulis("Sandhika Galih");
+$produk1->setPenulis("Harijanto");
 echo $produk1->getPenulis();
